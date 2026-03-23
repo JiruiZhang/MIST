@@ -20,11 +20,11 @@ We recommend using [Conda](https://docs.conda.io/en/latest/) to manage your envi
 
 ```python
 # 1. Clone the repository
-git clone https://github.com/YourUsername/MIST.git
+git clone https://github.com/JiruiZhang/MIST.git
 cd MIST
 
 # 2. Create a conda environment
-conda create -n mist_env python=3.8
+conda create -n mist_env python=3.9
 conda activate mist_env
 
 # 3. Install PyTorch (Please install the version matching your CUDA)
