@@ -12,7 +12,7 @@ Spatial transcriptomics technologies have revolutionized our ability to characte
 
 MIST consistently achieves state-of-the-art performance across diverse datasets, including human DLPFC (10x Visium), mouse olfactory bulb (Stereo-seq, Slide-seqV2), and developing mouse embryos.
 
-![overview](Overview/overview.png)
+![overview](MIST/Overview/overview.png)
 
 ##  Installation
 
