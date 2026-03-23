@@ -50,5 +50,5 @@ R == 4.5.1
 
 A Jupyter Notebook of the tutorial is accessible from :
 
-https://github.com/JiruiZhang/MIST/MIST/DLPFC.ipynb
+[Click here to view the DLPFC Data Analysis Tutorial (DLPFC.ipynb)](DLPFC.ipynb)
 
